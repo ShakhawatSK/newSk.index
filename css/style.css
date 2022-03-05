@@ -1,0 +1,102 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+body{
+    
+}
+.header li{
+    list-style: none;
+    display: inline-block;
+    padding: 12px;
+    margin-top: 10px;
+    text-transform: capitalize;
+    font-size: 18px;
+    font-weight: 700px;
+}
+.header li a{
+    text-transform: capitalize;
+
+}
+.header img{
+    width: 100px;
+    margin-left: 50px;
+}
+.banner{
+    width: 100%;
+    background-image: url(../img/dr.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.banner h2{
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+    font-weight: 700;
+    margin-top: 50px;
+
+}
+.banner h3{
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+    font-weight: 500;
+    margin-top: 50px;
+    font-size: 22px;
+    
+}
+.banner-btn{
+    margin: 24px auto;
+    display: block;
+    padding: 15px 31px;
+    border:none;
+    background-color: rgb(142, 250, 70);
+    border-radius: 6px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    color: white;
+    font-size: 18px;
+    text-transform: capitalize;
+
+    
+}
+.work{
+    width: 100%;
+
+}
+.work img{
+    width: 200px;
+    margin: 0 auto;
+    display: block; 
+
+}
+.work h2{
+    text-align: center;
+    margin-top: 20px;
+    color: rgb(70, 70, 70);
+
+}
+.work p{
+    margin-top: 30px;
+    text-align: center;
+    color: gray;
+
+
+}
+.find img{
+    width: 50px;
+    margin-left: 40px;
+    
+    
+    
+}
+.find h4{
+    text-transform: capitalize;
+    color: rgb(68, 68, 68);
+    text-align: center;
+    
+}
+.find p{
+    text-align: center;
+}
